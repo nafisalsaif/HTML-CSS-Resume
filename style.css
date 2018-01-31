@@ -1,1 +1,23 @@
-/* Your CSS styles go here */
+.text{color:black;background:#1F414A;
+margin:3px;
+padding:12px;
+border-color:red;
+border-style:solid;
+}
+.down{color:black;background:#1F414A;
+padding:12px;
+margin:3px;
+border-color:red;
+border-style:solid;
+}
+
+.upper{color:black;background:#1F414A;
+border-color:red;
+border-style:solid;
+padding:12px;
+margin:3px;}
+
+
+
+
+
