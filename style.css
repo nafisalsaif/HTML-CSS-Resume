@@ -1,1 +1,66 @@
-/* Your CSS styles go here */
+.text{
+	color:black;background:#1F414A;
+margin:3px;
+padding:12px;
+border-color:red;
+border-style:solid;
+}
+.down{
+	color:black;
+	background:#1F414A;
+padding:12px;
+margin:3px;
+border-color:red;
+border-style:solid;
+}
+img{
+	width:15%;
+    border-color:#FFFF00;
+    border-image:#FFFF00; 
+    text-align:right;
+    margin:5px;	
+}
+
+.upper{
+	color:black;
+	background:#1F414A;
+border-color:red;
+border-style:solid;
+padding:12px;
+margin:3px;
+}
+
+@media only screen and (max-width: 768px) {
+    body {
+    	width:100%;
+        background-color:white;      
+}
+
+ .upper{
+	color:black;
+	background:#800000;
+border-color:blue;
+border-style:solid;
+padding:25px;
+margin:3px;
+}
+
+.text{
+	color:green;background:#1F414A;
+margin:3px;
+padding:25px;
+border-color:brown;
+border-style:solid;
+}
+
+.down{
+	color:black;
+	background:#E7E411;
+padding:25px;
+margin:3px;
+border-color:#FFC300;
+border-style:solid;
+
+    }
+
+
