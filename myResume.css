@@ -1,0 +1,25 @@
+.ResumeFullColor{
+	text-align: center;
+	margin: 0;
+	padding: 0;
+	animation: bgcolor infinite 20s;
+}
+@keyframes bgcolor{
+90%{background-color: #1abc9c;}
+80%{background-color: #2ecc71;}
+75%{background-color:  #3498db;}
+50%{background-color: #f39c12 ;}
+40%{background-color: #e74c3c;}
+15%{background-color: #d35400;}
+0%{background-color: #bdc3c7;}
+
+
+
+}
+.upContact{
+	color:;
+}
+.strengh{
+	color: ;
+
+}
